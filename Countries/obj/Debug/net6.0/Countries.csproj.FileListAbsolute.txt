@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\SimpleCalculator\Countries\obj\Debug\net6.0\Countries.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\SimpleCalculator\Countries\obj\Debug\net6.0\Countries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\SimpleCalculator\Countries\obj\Debug\net6.0\Countries.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SimpleCalculator\Countries\obj\Debug\net6.0\Countries.AssemblyInfo.cs
+C:\Users\user\Desktop\SimpleCalculator\Countries\obj\Debug\net6.0\Countries.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SimpleCalculator\Countries\bin\Debug\net6.0\Countries.exe
+C:\Users\user\Desktop\SimpleCalculator\Countries\bin\Debug\net6.0\Countries.deps.json
+C:\Users\user\Desktop\SimpleCalculator\Countries\bin\Debug\net6.0\Countries.runtimeconfig.json
+C:\Users\user\Desktop\SimpleCalculator\Countries\bin\Debug\net6.0\Countries.dll
+C:\Users\user\Desktop\SimpleCalculator\Countries\bin\Debug\net6.0\Countries.pdb
+C:\Users\user\Desktop\SimpleCalculator\Countries\obj\Debug\net6.0\Countries.dll
+C:\Users\user\Desktop\SimpleCalculator\Countries\obj\Debug\net6.0\refint\Countries.dll
+C:\Users\user\Desktop\SimpleCalculator\Countries\obj\Debug\net6.0\Countries.pdb
+C:\Users\user\Desktop\SimpleCalculator\Countries\obj\Debug\net6.0\Countries.genruntimeconfig.cache
+C:\Users\user\Desktop\SimpleCalculator\Countries\obj\Debug\net6.0\ref\Countries.dll
